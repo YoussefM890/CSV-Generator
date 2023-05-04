@@ -1,0 +1,13 @@
+.table-data{
+    width: 100%;
+    height: 100%;
+    border: none;
+    box-sizing: border-box;
+    background-color: inherit;
+    outline: none;
+    padding: 0;
+}
+td{
+    padding: 0 !important;
+    height: 2.5rem ;
+}

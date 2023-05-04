@@ -1,0 +1,6 @@
+To add a new option :
+add it to the dataType enum (enums.js)
+create the add function in the add_settings.js file
+create the generate function in the generate.js file
+reference it in the initGenerateMethodPerType (main)
+reference it in the initGenerateMethodPerType (main)
